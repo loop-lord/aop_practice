@@ -1,0 +1,16 @@
+Category,Unit,FactorToBase
+Length,Meter,1
+Length,Kilometer,1000
+Length,Centimeter,0.01
+Length,Millimeter,0.001
+Length,Mile,1609.34
+Weight,Gram,1
+Weight,Kilogram,1000
+Weight,Milligram,0.001
+Weight,Pound,453.592
+Weight,Ton,1000000
+Time,Second,1
+Time,Minute,60
+Time,Hour,3600
+Time,Day,86400
+Time,Week,604800

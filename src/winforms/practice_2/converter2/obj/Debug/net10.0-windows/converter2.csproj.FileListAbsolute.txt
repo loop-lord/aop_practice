@@ -1,0 +1,17 @@
+C:\Users\belmik\source\repos\converter2\converter2\bin\Debug\net10.0-windows\converter2.exe
+C:\Users\belmik\source\repos\converter2\converter2\bin\Debug\net10.0-windows\converter2.deps.json
+C:\Users\belmik\source\repos\converter2\converter2\bin\Debug\net10.0-windows\converter2.runtimeconfig.json
+C:\Users\belmik\source\repos\converter2\converter2\bin\Debug\net10.0-windows\converter2.dll
+C:\Users\belmik\source\repos\converter2\converter2\bin\Debug\net10.0-windows\converter2.pdb
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.Form1.resources
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.csproj.GenerateResource.cache
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.AssemblyInfoInputs.cache
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.AssemblyInfo.cs
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.csproj.CoreCompileInputs.cache
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.dll
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\refint\converter2.dll
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.pdb
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\converter2.genruntimeconfig.cache
+C:\Users\belmik\source\repos\converter2\converter2\obj\Debug\net10.0-windows\ref\converter2.dll
+C:\Users\belmik\source\repos\converter2\converter2\bin\Debug\net10.0-windows\units.csv

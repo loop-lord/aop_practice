@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Canva</id>
+    <version>1.0.0</version>
+    <authors>Canva</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\belmik\source\repos\Canva\Canva\bin\Debug\net10.0-windows\Canva.runtimeconfig.json" target="lib\net10.0-windows7.0\Canva.runtimeconfig.json" />
+    <file src="C:\Users\belmik\source\repos\Canva\Canva\bin\Debug\net10.0-windows\Canva.dll" target="lib\net10.0-windows7.0\Canva.dll" />
+  </files>
+</package>

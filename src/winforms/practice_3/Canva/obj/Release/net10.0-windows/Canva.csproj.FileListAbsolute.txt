@@ -1,0 +1,16 @@
+C:\Users\belmik\source\repos\Canva\Canva\bin\Release\net10.0-windows\Canva.exe
+C:\Users\belmik\source\repos\Canva\Canva\bin\Release\net10.0-windows\Canva.deps.json
+C:\Users\belmik\source\repos\Canva\Canva\bin\Release\net10.0-windows\Canva.runtimeconfig.json
+C:\Users\belmik\source\repos\Canva\Canva\bin\Release\net10.0-windows\Canva.dll
+C:\Users\belmik\source\repos\Canva\Canva\bin\Release\net10.0-windows\Canva.pdb
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.Form1.resources
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.csproj.GenerateResource.cache
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.AssemblyInfoInputs.cache
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.AssemblyInfo.cs
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.csproj.CoreCompileInputs.cache
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.dll
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\refint\Canva.dll
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.pdb
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\Canva.genruntimeconfig.cache
+C:\Users\belmik\source\repos\Canva\Canva\obj\Release\net10.0-windows\ref\Canva.dll

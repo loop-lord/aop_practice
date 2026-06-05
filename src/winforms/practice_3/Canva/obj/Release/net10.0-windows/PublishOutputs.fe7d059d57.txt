@@ -1,0 +1,5 @@
+C:\Users\belmik\Downloads\Canva.exe
+C:\Users\belmik\Downloads\Canva.dll
+C:\Users\belmik\Downloads\Canva.deps.json
+C:\Users\belmik\Downloads\Canva.runtimeconfig.json
+C:\Users\belmik\Downloads\Canva.pdb
